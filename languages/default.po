@@ -1,0 +1,592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Portlight GenesisAwesome Child Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-21 20:17+0530\n"
+"PO-Revision-Date: 2013-01-21 20:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: Harish Dasari <harishdasari@genesisawesome.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_attr__;esc_html_e;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom-home.php:190
+#, php-format
+msgid "about %s ago"
+msgstr ""
+
+#: ../functions.php:57
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:313
+msgid "Rss Feeds"
+msgstr ""
+
+#: ../functions.php:314
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:315
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:316
+msgid "Dribbble"
+msgstr ""
+
+#: ../functions.php:367
+msgid "Read More"
+msgstr ""
+
+#: ../functions.php:387
+msgid "Copyright"
+msgstr ""
+
+#: ../functions.php:387
+msgid "on"
+msgstr ""
+
+#: ../functions.php:426
+msgid "Subscribe to Our Blog Updates!"
+msgstr ""
+
+#: ../functions.php:427
+msgid "Subscribe to Our Free Email Updates!"
+msgstr ""
+
+#: ../functions.php:432
+msgid "Subscribe"
+msgstr ""
+
+#: ../functions.php:439
+msgid "Share this article!"
+msgstr ""
+
+#: ../functions.php:466
+msgid "Related Posts"
+msgstr ""
+
+#: ../functions.php:525
+msgid "No Related Posts!"
+msgstr ""
+
+#: ../functions.php:574
+msgid "Portlight Child Theme Settings"
+msgstr ""
+
+#: ../functions.php:578
+msgid "Portlight Homepage Settings"
+msgstr ""
+
+#: ../page-contact.php:75
+msgid "NO NAME"
+msgstr ""
+
+#: ../page-contact.php:76
+msgid "NO SUBJECT"
+msgstr ""
+
+#: ../page-contact.php:78
+msgid "NO MESSAGE"
+msgstr ""
+
+#: ../page-contact.php:121
+msgid "Success!. Your mail is Sent!"
+msgstr ""
+
+#: ../page-contact.php:123
+msgid "Sorry!. Failed to sent the Mail!"
+msgstr ""
+
+#: ../page-contact.php:140
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:144
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:148
+msgid "Email"
+msgstr ""
+
+#: ../page-contact.php:152
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:164
+msgid "Verification"
+msgstr ""
+
+#: ../page-contact.php:169
+msgid "Send"
+msgstr ""
+
+#: ../page-contact.php:172
+msgid "* indicates required"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:29
+msgid "GenesisAwesome - Portlight Theme Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:30
+msgid "Portlight Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:36
+#: ../lib/genesisawesome-settings.php:517
+msgid "Save Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:37
+#: ../lib/genesisawesome-settings.php:518
+msgid "Reset Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:38
+#: ../lib/genesisawesome-settings.php:519
+msgid "Settings saved."
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:39
+#: ../lib/genesisawesome-settings.php:520
+msgid "Settings reset."
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:40
+#: ../lib/genesisawesome-settings.php:521
+msgid "Error saving settings."
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:208
+msgid "Theme Information"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:209
+#: ../lib/genesisawesome-settings.php:622
+msgid "General Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:210
+msgid "Social Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:211
+msgid "Contact Page Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:212
+msgid "Typography Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:226
+msgid "Theme Name"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:230
+msgid "Theme Version"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:234
+msgid "Author"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:258
+msgid "Custom Logo URL"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:262
+msgid "Logo Width"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:266
+msgid "Logo Height"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:270
+msgid "Enable Post Social Share ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:274
+msgid "Enable Post Subscribe box ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:278
+msgid "Enable Related Posts ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:282
+msgid "Feedburner ID"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:286
+msgid "Footer Left Text"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:303
+msgid "Rss Feed URL"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:307
+msgid "Facebook URL"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:311
+msgid "Twitter URL"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:315
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:320
+msgid "Leave fields as blank to hide the icon/link"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:336
+msgid "Contact Email"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:340
+msgid "reCaptcha Public Key"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:344
+msgid "reCaptcha Private Key"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:348
+msgid "reCaptcha Color Theme"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:351
+msgid "Red"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:352
+msgid "White"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:353
+msgid "Blackglass"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:354
+msgid "Clean"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:360
+msgid ""
+"reCaptcha is free captch service from Google to prevent the Email Spams. <br/"
+">To get reCaptcha public key and private key please visit <a href=\"https://"
+"www.google.com/recaptcha/admin/create\" target=\"_blank\">reCaptcha admin "
+"site</a>"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:376
+msgid "Body"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:380
+msgid "H1 Heading Typography"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:384
+msgid "H2 Heading Typography"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:388
+msgid "H3 Heading Typography"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:392
+msgid "H4 Heading Typography"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:396
+msgid "H5 Heading Typography"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:466
+msgid "Enable ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:470
+msgid "Font Size:"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:474
+msgid "Font Color:"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:478
+msgid "Link Color:"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:482
+msgid "Link Hover Color:"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:510
+msgid "GenesisAwesome - Portlight Homepage Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:511
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:529
+msgid "WordPress Designer <span class=\"amp\">&amp;</span> Developer"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:530
+msgid "Genesis Framework Expert"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:533
+msgid "Web Design & Development"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:535
+msgid "WordPress & Genesis Expert"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:537
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:540
+msgid "My Work"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:543
+msgid "Blog"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:623
+msgid "Headlines Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:624
+msgid "Services Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:625
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:626
+msgid "Blog Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:627
+msgid "Twitter Settings"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:641
+msgid "Enable Custom Home Page ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:659
+msgid "Enable Homepage Top Headlines ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:663
+msgid "Headline #1"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:667
+msgid "Headline #2"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:671
+msgid "Headline description"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:690
+msgid "Enable Homepage Service Boxes ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:695
+msgid "Service Headline #1"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:699
+msgid "Service description #1"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:704
+msgid "Service Headline #2"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:708
+msgid "Service description #2"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:713
+msgid "Service Headline #3"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:717
+msgid "Service description #3"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:736
+msgid "Enable Homepage Portfolio ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:740
+msgid "Portfolio Headline"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:744
+msgid "Number of Portfolio Items to show"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:762
+msgid "Enable Homepage Blog ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:766
+msgid "Blog Headline"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:770
+msgid "Number of Blog Items to show"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:788
+msgid "Enable Homepage Twitter updates ?"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:792
+msgid "Twitter handle"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:796
+msgid "Number of Tweet Items to show"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:21
+msgid "Displays Facebook Page Likebox"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:22
+msgid "GenesisAwesome : Facebook Likebox"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:93
+msgid "Like us on Facebook"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:109
+#: ../lib/widgets/widget-flickr.php:99
+msgid "Title"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:113
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:117
+msgid "Width"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:121
+msgid "Height"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:125
+msgid "Color Scheme"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:127
+msgid "Light"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:128
+msgid "Dark"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:132
+msgid "Border Color"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:137
+msgid "Show Faces"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:141
+msgid "Show Stream"
+msgstr ""
+
+#: ../lib/widgets/widget-facebook-likebox.php:145
+msgid "Show Header"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:21
+msgid "Displays Flickr photos stream on sidebar"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:22
+msgid "GenesisAwesome : Flickr"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:86
+msgid "Flickr"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:103
+msgid "Flickr ID"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:107
+msgid "Number of Photos"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:111
+msgid "Type:"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:113
+msgid "User"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:114
+msgid "Group"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:118
+msgid "Sorting:"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:120
+msgid "Latest"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:121
+msgid "Random"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:125
+msgid "Size:"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:127
+msgid "Small"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:128
+msgid "Medium"
+msgstr ""
+
+#: ../lib/widgets/widget-flickr.php:129
+msgid "Large"
+msgstr ""

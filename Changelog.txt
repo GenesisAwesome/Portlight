@@ -1,0 +1,4 @@
+### Portlight Child Theme ###
+
+== 21/1/2012 - v1.0 ==
+ * Initial Release

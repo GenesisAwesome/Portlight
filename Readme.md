@@ -4,10 +4,7 @@ Free Genesis Child theme by [GenesisAwesome](http://www.genesisawesome.com)
 
 ####[Theme Demo](http://www.genesisawesome.com/themes/portlight-genesis-child-theme/demo/) / [Download](http://www.genesisawesome.com/themes/portlight-genesis-child-theme/)
 
-
-
 ## Install
-
 
 ### Upload via WordPress Dashboard
 
@@ -23,7 +20,7 @@ Free Genesis Child theme by [GenesisAwesome](http://www.genesisawesome.com)
 
 ##Instructions
 
-Demo Data `.xml` file and Genesis Theme Settings `.json` file. Please Import theme for examples. 
+Demo Data `.xml` file and Genesis Theme Settings `.json` file. Please Import theme for examples.
 
 No Special instructions needed!.
 

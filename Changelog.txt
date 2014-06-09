@@ -1,4 +1,8 @@
 ### Portlight Child Theme ###
 
+== 9/6/2014 - v1.1 ==
+ * Rewritten from scratch
+ * Genesis 2.0 Compatible
+
 == 21/1/2012 - v1.0 ==
  * Initial Release

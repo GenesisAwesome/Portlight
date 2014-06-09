@@ -2,134 +2,174 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Portlight GenesisAwesome Child Theme\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-21 20:17+0530\n"
-"PO-Revision-Date: 2013-01-21 20:17+0530\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2014-06-10 00:57+0530\n"
+"PO-Revision-Date: 2014-06-10 00:57+0530\n"
+"Last-Translator: Harish Dasari <harishdasari@outlook.com>\n"
 "Language-Team: Harish Dasari <harishdasari@genesisawesome.com>\n"
-"Language: English\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _e;__;esc_html__;esc_attr__;esc_html_e;esc_attr_e\n"
 "X-Poedit-Basepath: .\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.4\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../custom-home.php:190
-#, php-format
-msgid "about %s ago"
-msgstr ""
-
-#: ../functions.php:57
+#: ../functions.php:35
 msgid "Primary Navigation"
 msgstr ""
 
-#: ../functions.php:313
-msgid "Rss Feeds"
+#: ../functions.php:43
+msgid "Home Widgets 1"
 msgstr ""
 
-#: ../functions.php:314
-msgid "Twitter"
+#: ../functions.php:44
+msgid "This is home page widget section #1"
 msgstr ""
 
-#: ../functions.php:315
-msgid "Facebook"
+#: ../functions.php:51
+msgid "Home Widgets 2"
 msgstr ""
 
-#: ../functions.php:316
-msgid "Dribbble"
+#: ../functions.php:52
+msgid "This is home page widget section #2"
 msgstr ""
 
-#: ../functions.php:367
+#: ../functions.php:294
 msgid "Read More"
 msgstr ""
 
-#: ../functions.php:387
-msgid "Copyright"
-msgstr ""
-
-#: ../functions.php:387
+#: ../functions.php:314
 msgid "on"
 msgstr ""
 
-#: ../functions.php:426
+#: ../functions.php:336
 msgid "Subscribe to Our Blog Updates!"
 msgstr ""
 
-#: ../functions.php:427
+#: ../functions.php:337
 msgid "Subscribe to Our Free Email Updates!"
 msgstr ""
 
-#: ../functions.php:432
+#: ../functions.php:342
 msgid "Subscribe"
 msgstr ""
 
-#: ../functions.php:439
+#: ../functions.php:349
 msgid "Share this article!"
 msgstr ""
 
-#: ../functions.php:466
+#: ../functions.php:371
 msgid "Related Posts"
 msgstr ""
 
-#: ../functions.php:525
-msgid "No Related Posts!"
-msgstr ""
-
-#: ../functions.php:574
+#: ../functions.php:473
 msgid "Portlight Child Theme Settings"
 msgstr ""
 
-#: ../functions.php:578
-msgid "Portlight Homepage Settings"
+#: ../functions.php:529 ../functions.php:541
+msgid "Portfolio"
 msgstr ""
 
-#: ../page-contact.php:75
-msgid "NO NAME"
+#: ../functions.php:530
+msgid "Add New Portfolio"
 msgstr ""
 
-#: ../page-contact.php:76
-msgid "NO SUBJECT"
+#: ../functions.php:531
+msgid "Edit Portfolio"
 msgstr ""
 
-#: ../page-contact.php:78
-msgid "NO MESSAGE"
+#: ../functions.php:532
+msgid "New Portfolio"
 msgstr ""
 
-#: ../page-contact.php:121
-msgid "Success!. Your mail is Sent!"
+#: ../functions.php:533
+msgid "View Portfolio"
 msgstr ""
 
-#: ../page-contact.php:123
-msgid "Sorry!. Failed to sent the Mail!"
+#: ../functions.php:534
+msgid "Search Portfolio"
 msgstr ""
 
-#: ../page-contact.php:140
-msgid "Name"
+#: ../functions.php:535
+msgid "No Portfolio items found"
 msgstr ""
 
-#: ../page-contact.php:144
-msgid "Subject"
+#: ../functions.php:536
+msgid "No Portfolio items found in trash"
 msgstr ""
 
-#: ../page-contact.php:148
-msgid "Email"
+#: ../functions.php:554
+msgid "All Portfolio Categories"
 msgstr ""
 
-#: ../page-contact.php:152
-msgid "Message"
+#: ../functions.php:555
+msgid "Edit Portfolio Category"
 msgstr ""
 
-#: ../page-contact.php:164
-msgid "Verification"
+#: ../functions.php:556
+msgid "Update Portfolio Category"
 msgstr ""
 
-#: ../page-contact.php:169
-msgid "Send"
+#: ../functions.php:557
+msgid "Add Portfolio Category"
 msgstr ""
 
-#: ../page-contact.php:172
-msgid "* indicates required"
+#: ../functions.php:558
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../functions.php:559
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../functions.php:560
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:561
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:566
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions.php:718
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../functions.php:727
+msgid "Project title"
+msgstr ""
+
+#: ../functions.php:729
+msgid "Enter the title of the project"
+msgstr ""
+
+#: ../functions.php:733
+msgid "Project work name"
+msgstr ""
+
+#: ../functions.php:735
+msgid "Enter the work done in this project"
+msgstr ""
+
+#: ../functions.php:739 ../single-portfolio.php:69
+msgid "Project URI"
+msgstr ""
+
+#: ../functions.php:741
+msgid "Enter the url of the project"
+msgstr ""
+
+#: ../functions.php:745
+msgid "Project clinet name"
+msgstr ""
+
+#: ../functions.php:747
+msgid "Enter the name of the project clinet"
 msgstr ""
 
 #: ../lib/genesisawesome-settings.php:29
@@ -141,148 +181,114 @@ msgid "Portlight Settings"
 msgstr ""
 
 #: ../lib/genesisawesome-settings.php:36
-#: ../lib/genesisawesome-settings.php:517
 msgid "Save Settings"
 msgstr ""
 
 #: ../lib/genesisawesome-settings.php:37
-#: ../lib/genesisawesome-settings.php:518
 msgid "Reset Settings"
 msgstr ""
 
 #: ../lib/genesisawesome-settings.php:38
-#: ../lib/genesisawesome-settings.php:519
 msgid "Settings saved."
 msgstr ""
 
 #: ../lib/genesisawesome-settings.php:39
-#: ../lib/genesisawesome-settings.php:520
 msgid "Settings reset."
 msgstr ""
 
 #: ../lib/genesisawesome-settings.php:40
-#: ../lib/genesisawesome-settings.php:521
 msgid "Error saving settings."
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:208
-msgid "Theme Information"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:209
-#: ../lib/genesisawesome-settings.php:622
+#: ../lib/genesisawesome-settings.php:211
 msgid "General Settings"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:210
+#: ../lib/genesisawesome-settings.php:212
 msgid "Social Settings"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:211
+#: ../lib/genesisawesome-settings.php:213
 msgid "Contact Page Settings"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:212
+#: ../lib/genesisawesome-settings.php:214
 msgid "Typography Settings"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:226
-msgid "Theme Name"
+#: ../lib/genesisawesome-settings.php:215
+msgid "Theme Information"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:230
-msgid "Theme Version"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:234
-msgid "Author"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:258
+#: ../lib/genesisawesome-settings.php:229
 msgid "Custom Logo URL"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:262
+#: ../lib/genesisawesome-settings.php:233
 msgid "Logo Width"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:266
+#: ../lib/genesisawesome-settings.php:237
 msgid "Logo Height"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:270
+#: ../lib/genesisawesome-settings.php:241
 msgid "Enable Post Social Share ?"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:274
+#: ../lib/genesisawesome-settings.php:245
 msgid "Enable Post Subscribe box ?"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:278
+#: ../lib/genesisawesome-settings.php:249
 msgid "Enable Related Posts ?"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:282
+#: ../lib/genesisawesome-settings.php:253
 msgid "Feedburner ID"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:286
+#: ../lib/genesisawesome-settings.php:257
 msgid "Footer Left Text"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:303
-msgid "Rss Feed URL"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:307
-msgid "Facebook URL"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:311
-msgid "Twitter URL"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:315
-msgid "Dribbble URL"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:320
+#: ../lib/genesisawesome-settings.php:297
 msgid "Leave fields as blank to hide the icon/link"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:336
+#: ../lib/genesisawesome-settings.php:313
 msgid "Contact Email"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:340
+#: ../lib/genesisawesome-settings.php:317
 msgid "reCaptcha Public Key"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:344
+#: ../lib/genesisawesome-settings.php:321
 msgid "reCaptcha Private Key"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:348
+#: ../lib/genesisawesome-settings.php:325
 msgid "reCaptcha Color Theme"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:351
+#: ../lib/genesisawesome-settings.php:328
 msgid "Red"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:352
+#: ../lib/genesisawesome-settings.php:329
 msgid "White"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:353
+#: ../lib/genesisawesome-settings.php:330
 msgid "Blackglass"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:354
+#: ../lib/genesisawesome-settings.php:331
 msgid "Clean"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:360
+#: ../lib/genesisawesome-settings.php:337
 msgid ""
 "reCaptcha is free captch service from Google to prevent the Email Spams. <br/"
 ">To get reCaptcha public key and private key please visit <a href=\"https://"
@@ -290,188 +296,60 @@ msgid ""
 "site</a>"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:376
+#: ../lib/genesisawesome-settings.php:353
 msgid "Body"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:380
+#: ../lib/genesisawesome-settings.php:357
 msgid "H1 Heading Typography"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:384
+#: ../lib/genesisawesome-settings.php:361
 msgid "H2 Heading Typography"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:388
+#: ../lib/genesisawesome-settings.php:365
 msgid "H3 Heading Typography"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:392
+#: ../lib/genesisawesome-settings.php:369
 msgid "H4 Heading Typography"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:396
+#: ../lib/genesisawesome-settings.php:373
 msgid "H5 Heading Typography"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:466
-msgid "Enable ?"
+#: ../lib/genesisawesome-settings.php:391
+msgid "Theme Name"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:470
+#: ../lib/genesisawesome-settings.php:395
+msgid "Theme Version"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:399
+msgid "Author"
+msgstr ""
+
+#: ../lib/genesisawesome-settings.php:475
 msgid "Font Size:"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:474
+#: ../lib/genesisawesome-settings.php:479
 msgid "Font Color:"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:478
+#: ../lib/genesisawesome-settings.php:483
 msgid "Link Color:"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:482
+#: ../lib/genesisawesome-settings.php:487
 msgid "Link Hover Color:"
 msgstr ""
 
-#: ../lib/genesisawesome-settings.php:510
-msgid "GenesisAwesome - Portlight Homepage Settings"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:511
-msgid "Homepage Settings"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:529
-msgid "WordPress Designer <span class=\"amp\">&amp;</span> Developer"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:530
-msgid "Genesis Framework Expert"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:533
-msgid "Web Design & Development"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:535
-msgid "WordPress & Genesis Expert"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:537
-msgid "Search Engine Optimization"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:540
-msgid "My Work"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:543
-msgid "Blog"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:623
-msgid "Headlines Settings"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:624
-msgid "Services Settings"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:625
-msgid "Portfolio Settings"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:626
-msgid "Blog Settings"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:627
-msgid "Twitter Settings"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:641
-msgid "Enable Custom Home Page ?"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:659
-msgid "Enable Homepage Top Headlines ?"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:663
-msgid "Headline #1"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:667
-msgid "Headline #2"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:671
-msgid "Headline description"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:690
-msgid "Enable Homepage Service Boxes ?"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:695
-msgid "Service Headline #1"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:699
-msgid "Service description #1"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:704
-msgid "Service Headline #2"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:708
-msgid "Service description #2"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:713
-msgid "Service Headline #3"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:717
-msgid "Service description #3"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:736
-msgid "Enable Homepage Portfolio ?"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:740
-msgid "Portfolio Headline"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:744
-msgid "Number of Portfolio Items to show"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:762
-msgid "Enable Homepage Blog ?"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:766
-msgid "Blog Headline"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:770
-msgid "Number of Blog Items to show"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:788
-msgid "Enable Homepage Twitter updates ?"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:792
-msgid "Twitter handle"
-msgstr ""
-
-#: ../lib/genesisawesome-settings.php:796
-msgid "Number of Tweet Items to show"
+#: ../lib/hd-wp-metabox-api/class-hd-html-helper.php:297
+msgid "Upload"
 msgstr ""
 
 #: ../lib/widgets/widget-facebook-likebox.php:21
@@ -589,4 +467,64 @@ msgstr ""
 
 #: ../lib/widgets/widget-flickr.php:129
 msgid "Large"
+msgstr ""
+
+#: ../page-contact.php:75
+msgid "NO NAME"
+msgstr ""
+
+#: ../page-contact.php:76
+msgid "NO SUBJECT"
+msgstr ""
+
+#: ../page-contact.php:78
+msgid "NO MESSAGE"
+msgstr ""
+
+#: ../page-contact.php:121
+msgid "Success!. Your mail is Sent!"
+msgstr ""
+
+#: ../page-contact.php:123
+msgid "Sorry!. Failed to sent the Mail!"
+msgstr ""
+
+#: ../page-contact.php:140
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:144
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:148
+msgid "Email"
+msgstr ""
+
+#: ../page-contact.php:152
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:164
+msgid "Verification"
+msgstr ""
+
+#: ../page-contact.php:169
+msgid "Send"
+msgstr ""
+
+#: ../page-contact.php:171
+msgid "* indicates required"
+msgstr ""
+
+#: ../single-portfolio.php:57
+msgid "Project Title"
+msgstr ""
+
+#: ../single-portfolio.php:63
+msgid "Project Work"
+msgstr ""
+
+#: ../single-portfolio.php:75
+msgid "Project Client"
 msgstr ""

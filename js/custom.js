@@ -19,7 +19,7 @@
 		var defaults = {
 			'timeintervel' : 6000,
 			'animation'    : 1000,
-			'element'      : '> li'
+			'element'      : '> li:not(".last")'
 		};
 
 		var settings = $.extend({}, defaults, options);
@@ -32,5 +32,20 @@
 })(jQuery);
 
 jQuery(document).ready(function($){
-	$(".ga-home-twitter ul").ga_simple_loop();
+	$('.portlight-home-bottom .latest-tweets ul').ga_simple_loop();
+
+	$('.nav-primary .genesis-nav-menu').before('<span class="responsive-navigation"><i class="fa fa-bars"></i> Navigation</span>');
+	$('.nav-primary .sub-menu').before( '<span class="responsive-sub-nav"></span>' );
+
+	$('.responsive-navigation, .responsive-sub-nav').click(function(){
+		$(this).toggleClass('nav-active').next('.genesis-nav-menu, .sub-menu').slideToggle();
+	});
+
+	// Reset Nav
+	$(window).resize(function(e) {
+		if ( window.innerWidth > 767 ) {
+			$('.nav-primary .genesis-nav-menu, .nav-primary .sub-menu').removeAttr('style');
+			$('.responsive-navigation, .responsive-sub-nav').removeClass('nav-active');
+		}
+	});
 });

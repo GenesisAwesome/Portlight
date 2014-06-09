@@ -1,0 +1,36 @@
+Home Widigets 1 -->
+<!-- Widget #1 - Text Widget -->
+
+<h1 class="headline-1">WordPress Developer <span class="amp">&</span> Designer</h1>
+<h2 class="headline-2">Genesis Framework Expert</h2>
+<p>I design WordPress Themes and Plugins, Genesis Framework Expert, WordPress Consultent, SEO Specilist. <br/> Consequatur harum! Lectus facilis ipsam cumque ratione praesent, blanditiis doloremque accumsan cupiditate quidem, vel nonummy iure adipisicing sint, fugit gravida facere aenean eum vestibulum! Distinctio eget occaecati. Arcu. Quos maxime sem ipsam proident feugiat dictumst bibendum! Feugiat veniam pariatur fuga.</p>
+
+
+<!-- Home Widigets 1 -->
+<!-- Widget #2 - Text Widget -->
+
+<div class="feature one-third first">
+	<div class="fa fa-code"></div>
+	<h3 class="feature-title">Web Design & Development</h3>
+	<p>Senectus lorem omnis rhoncus nostrum magni. Cumque! Proin blanditiis ligula sociis, condimentum, perspiciatis ac veniam aliquid corporis fames nesciunt facilis.</p>
+</div>
+<div class="feature one-third">
+	<div class="fa fa-wordpress"></div>
+	<h3 class="feature-title">WordPress & Genesis Expert</h3>
+	<p>Senectus lorem omnis rhoncus nostrum magni. Cumque! Proin blanditiis ligula sociis, condimentum, perspiciatis ac veniam aliquid corporis fames nesciunt facilis.</p>
+</div>
+<div class="feature one-third">
+	<div class="fa fa-search"></div>
+	<h3 class="feature-title">Search Engine Optimization</h3>
+	<p>Senectus lorem omnis rhoncus nostrum magni. Cumque! Proin blanditiis ligula sociis, condimentum, perspiciatis ac veniam aliquid corporis fames nesciunt facilis.</p>
+</div>
+
+<!-- Home Widgets 2 -->
+<!-- Widget #1 - Text Widget -->
+[portfolio posts_num="6"]
+
+<!-- Home Widgets 2 -->
+<!-- Widget #2 - Genesis: Featured Posts Widget -->
+
+<!-- Home Widgets 2 -->
+<!-- Widget #2 - Genesis Latest Twitter Tweets Widget -->

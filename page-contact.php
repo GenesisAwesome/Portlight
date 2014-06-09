@@ -1,11 +1,11 @@
 <?php
 /**
  * GenesisAwesome Contact Page
- * 
+ *
  * Template Name: Contact
- * 
- * A Contact page with reCaptcha for GenesisAwesome Child themes 
- * 
+ *
+ * A Contact page with reCaptcha for GenesisAwesome Child themes
+ *
  * @package    Genesis Child Theme
  * @subpackage Page Templates
  * @author     Harish Dasari
@@ -14,14 +14,14 @@
  */
 
 /* Remove the Default Post Content */
-remove_action( 'genesis_post_content', 'genesis_do_post_content' );
+remove_action( 'genesis_entry_content', 'genesis_do_post_content' );
 
-add_action( 'genesis_post_content', 'genesisawesome_do_post_content' );
+add_action( 'genesis_entry_content', 'genesisawesome_do_post_content' );
 /**
  * GenesisAwesome Contact Form to Post Content
- * 
+ *
  * @since 1.0
- * 
+ *
  * @return null
  */
 function genesisawesome_do_post_content() {
@@ -42,7 +42,7 @@ function genesisawesome_do_post_content() {
 	$error_class   = ' class="ga-error"';
 
 	/* Process Contact Form Submission */
-	if ( isset( $_POST['ga-submit'] ) && wp_verify_nonce( $_POST['token'], 'genesisawesome-contact' ) ) {
+	if ( isset( $_POST['ga-submit'] ) ) {
 
 		if ( ! isset( $_POST['ga-name'] ) || empty( $_POST['ga-name'] ) )
 			$error[] = 'name';
@@ -119,7 +119,7 @@ GA_MSG;
 
 			if ( $mail_status )
 				echo '<div class="ga-contact-success">' . __( 'Success!. Your mail is Sent!', 'genesisawesome' ) . '</div>';
-			else 
+			else
 				echo '<div class="ga-contact-failed">' . __( 'Sorry!. Failed to sent the Mail!', 'genesisawesome' ) . '</div>';
 
 		}
@@ -152,7 +152,7 @@ GA_MSG;
 				<label for="ga-message"><?php _e( 'Message', 'genesisawesome' ); ?> *</label><br />
 				<textarea name="ga-message" id="ga-message" cols="60" rows="8" required="required"><?php echo esc_textarea( $ga_field_message ); ?></textarea>
 			</p>
-			<?php if ( $reCaptcha ) : 
+			<?php if ( $reCaptcha ) :
 			$color_theme = genesis_get_option( 'recaptcha_colortheme', GA_CHILDTHEME_FIELD ) ? genesis_get_option( 'recaptcha_colortheme', GA_CHILDTHEME_FIELD ) : 'red';
 			?>
 			 <script type="text/javascript">
@@ -167,7 +167,6 @@ GA_MSG;
 			<?php endif; ?>
 			<p>
 				<input type="submit" name="ga-submit" id="ga-submit" value="<?php esc_attr_e( 'Send', 'genesisawesome' );?>" />
-				<?php wp_nonce_field( 'genesisawesome-contact', 'token' ); ?>
 			</p>
 			<span style="font-size: small"><?php _e( '* indicates required', 'genesisawesome' );?></span>
 		</form>

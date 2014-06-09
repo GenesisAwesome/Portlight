@@ -1,5 +1,5 @@
 jQuery(document).ready(function ($) {
-	$('.ga-color').miniColors({
+	$('.ga-color').minicolors({
 		letterCase: 'lowercase'
 	});
 });
